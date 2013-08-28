@@ -1,0 +1,11 @@
+.gitignore
+build
+target
+classes
+**/build
+**/target
+**/classes
+.gradle
+.idea
+*.iml
+*.setting
